@@ -1,0 +1,21 @@
+{
+  "name": "aayaantheme",
+  "displayName": "AayaanTheme",
+  "description": "My favourite theme in vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aayaan Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Aayaan Theme-color-theme.json"
+      }
+    ]
+  }
+}
