@@ -1,8 +1,9 @@
 {
   "name": "aayaantheme",
   "displayName": "AayaanTheme",
-  "description": "My favourite theme in vscode",
+  "description": "Best theme for your productivity",
   "version": "0.0.1",
+  "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.92.0"
   },
